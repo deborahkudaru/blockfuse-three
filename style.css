@@ -1,0 +1,17 @@
+
+.one{
+  background-color: aqua;
+}
+
+.two{
+  background-color: aqua;
+}
+
+.three{
+  background-color: aqua;
+}
+
+.container{
+  display: flex;
+ gap: 40px;
+}
